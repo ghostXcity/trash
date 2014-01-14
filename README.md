@@ -3,12 +3,12 @@
 -------
 Init. README.md
 
-# Init type f-w:
+# Init type
 $ mkdir ~/Hello-World
 $ cd ~/Hello-World
 git init
 gig Init Git repository -ghostXcity
-$ init -/Users/you/Hello-World/.git/
+$ init -/Users/ghostXcity/Hello-World/.git/
 $ touch README.md
 git config --global core.autocrlf input
 
@@ -19,7 +19,7 @@ git config --verify user.email: -ssl:/ghostXtown@outlook.com
 ghostXtown@outlook.com
 
 git config --global user.name "ghostXcity"
-# Sets new user.name
+# Set user.name
 git config --global user.name -ghostXcity
 # Verify the setting
 ghostXcity
