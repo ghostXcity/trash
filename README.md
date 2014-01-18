@@ -8,4 +8,5 @@ Init repository-path ~/ghostXcity/trash/README.md
 Git push origin master --echo ghostXcity repository -Master 
 set-master:true  echo: set-/ghostXcity/trash/README.md
 Init: README.md
-
+==README.md===
+print README.md
