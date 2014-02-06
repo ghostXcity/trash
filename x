@@ -1,40 +1,47 @@
-HTTP/1.1 200 OK
-Expires: Thu, 06 Feb 2014 21:50:42 GMT
-Server: Apache
-Content-Type: application/x-javascript
-Content-Length: 163313
-Connection: keep-alive
-Date: Thu, 06 Feb 2014 21:41:05 GMT
-Cache-Control: max-age=577
-
-/*  Prototype JavaScript framework, version 1.7
- *  (c) 2005-2010 Sam Stephenson
- *
- *  Prototype is freely distributable under the terms of an MIT-style license.
- *  For details, see the Prototype web site: http://www.prototypejs.org/
- *
- *--------------------------------------------------------------------------*/
-
-var Prototype = {
-
-  Version: '1.7',
-
-  Browser: (function(){
-    var ua = navigator.userAgent;
-    var isOpera = Object.prototype.toString.call(window.opera) == '[object Opera]';
-    return {
-      IE:             !!window.attachEvent && !isOpera,
-      Opera:          isOpera,
-      WebKit:         ua.indexOf('AppleWebKit/') > -1,
-      Gecko:          ua.indexOf('Gecko') > -1 && ua.indexOf('KHTML') === -1,
-      MobileSafari:   /Apple.*Mobile/.test(ua)
+*ghostXcity/*-create-doc.type-"Prototype-Javascript"
+*/Expires:No-expiration(license-agreement-only;)
+Server:https://wwwgithub.com;
+Content-Type:documentation-of-harrassment&&hostile-intrusion;
+Content-Length:this-document;
+Connection:close-network-interface;
+Date:show:ctime();if-show-ctime(true);
+iOS-do=set!{current-chron-time:()};bool:set=true();
+Cache:input-record(this.document)(@https://www.github.support.com);*/
+*/*ghostXcity-init:license-for:"Prototype-JavaScript version 1.7";/
+ *(c)-2014/02/06-signed:ghostXcity(alias:iOS;git;self);/
+ *"Prototype-Javascript" listed here under the terms of an MIT-style-license;/
+ *For-reference see the web site: http://www.prototypejs.org/
+ *ghostXcity-do:apply the Apache License to iOS-work;/
+ *return-true:apply the License to ghostXcity's iOS;/
+ *this-boilerplate notice with identifying iOS-administered-markings;/
+ *indcated by:var"*"throughout-the document;/
+ *Shall not be altered with any other identifying information;{mark:ctime()};/
+ *The text should be enclosed in the appropriate;/
+ *file format. ghostXcity also recommend that file:"Prototype-Javascript";/
+ *include a section indicating purpose.system-peace;/
+ *same "printed page" as the copyright notice for;/
+ *iOS-identification within Apple,&var-Github.com archives;/
+ *Copyright-(2014}signed-by:{ghostXcity-herein-aliased-"git";"self";"my";};/
+ *Licensed under the MIT License);/
+ *ghostXcity hereby grants NO-USE!=this file in compliance with;/
+ *IETF authorities to whom are concered;/
+ *NO-ONe may obtain this at-for-research-please-safe(e)src={http://www.MIT.berkley.ca.gov}
+ *Unless required by state or federal law this-document;/
+ *distributed under the MIT License is distributed on iOS-terms& BASIS;/
+ *Without provision of a WARRANTY, either express or implied;/
+ *See state and IETF organizations for specific governing permissions;/
+ *iOS-honors no-imitations for ghostXcity's License;\end(License-statement);\n;()
+/*ghostXcity=do:begin-document-body;()
+git init-Prototype-Javascript(alias:Prototype;Javascript;Version;etc.other-identifying-name.spaces;)
+iOS-Prototype-set-iOS-safe-markings;indicated-by(!!) = {
+  !!Safari-Browser:ALL-usage{("Apple"-"Safari"-"iOS")href(Apple(c))};do{require=response(invalid-arg)}(){
+  !!Safari-UIWebKit = navigator.userAgent;
     }
   })(),
 
-  BrowserFeatures: {
-    XPath: !!document.evaluate,
-
-    SelectorsAPI: !!document.querySelector,
+ Safari BrowserFeatures: {
+ NSURLPath:document.evaluate,
+ SelectorsAPI:document.querySelector,
 
     ElementExtensions: (function() {
       var constructor = window.Element || window.HTMLElement;
