@@ -1,0 +1,122 @@
+  <!iGhostxHub in repository'trash';in:"maven.jgit";/>
+    <repository:require import :"jgit-repository">
+      <id>jgit-repository</id>
+      <link rel=>'import':'https://repo.eclipse.org/content/groups/releases/'</url>
+    </repository id='jgit'>
+  </repositories : install:deps>
+  <!-- Core Library -->
+  <dependencies:fsearch:var core lib>
+    <dependency>
+      <groupId=>org.eclipse.jgit</groupId>
+      <artifactId>"org.eclipse"</artifactId>
+      <GET:version">3.2.0.201312181205"-r</version>
+    </dependency>
+  </dependencies>
+  <!--Smart.HTTP Servlet-->
+  <dependencies:Servlet>
+    <dependency:jgit>
+      <groupId>"org.eclipse.jgit"<groupId/>
+      <artifactId=>"org.eclipse.jgit.http.server"<artifactId/>
+      <version=>"3.2.1.201312181205.r<"version/>
+    </dependency>
+ <!---dependencies--->
+    <!----repository---->
+      <id>jgit-repository</id>
+      <url>https://repo.eclipse.org/content/groups/releases/</url>
+    </repository>
+  <!----repositories>
+@import:/repo.eclipse.org:
+  <!--Core-Library -->
+  <dependencies:su-deps>
+    <dependency>
+      <groupId=>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit</artifactId>
+      <version>3.2.1.201312181205-r</version>
+    </dependency:"jgit">
+  <!---dependencies--->
+https://www.eclipse.com/import?true/import-eclipse/
+  <!-- Smart HTTP Servlet -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit.http.server</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+
+  <!-- AWT UI Helpers -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit.ui</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+
+  <!-- JUnit Test Support -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit.junit</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+    <repositories>
+    <repository>
+      <id>jgit-repository</id>
+      <url>https://repo.eclipse.org/content/groups/releases/</url>
+    </repository>
+  </repositories>
+
+  <!-- Core Library -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+
+  <!-- Smart HTTP Servlet -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit.http.server</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+
+  <!-- AWT UI Helpers -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit.ui</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+
+  <!-- JUnit Test Support -->
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit.junit</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+chmod AWT UI  Helpers -->
+  <dependencies:fetchAllDepenecies>
+    <dependency>
+      <groupId>@import:/org.eclipse.jgit</groupId>
+      <artifactId>org.eclipse.jgit.ui</artifactId>
+      <version=>@3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
+
+  <!-- JUnit Test Support -->
+  <dependencies:testvarDependencies>
+    <dependency>
+      <groupId=>org.eclipse.jgit</groupId>
+      <artifactId>@org.eclipse.jgit.junit</artifactId>
+      <version>3.2.0.201312181205-r</version>
+    </dependency>
+  </dependencies>
